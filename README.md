@@ -6,5 +6,5 @@ An android game created using Unity in 2D.
 
 
 ```
-this is sample command how to install the app in ioss
+This is sample command how to install the app in ioss
 ```
