@@ -1,2 +1,3 @@
 # notAfishGame
-An android game created using Unity in 2D
+An android game created using Unity in 2D.
+
